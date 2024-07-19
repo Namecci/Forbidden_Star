@@ -1,7 +1,7 @@
 {
 	"combatText": {
 		"title": [
-			"title_1",
+			"aaa",
 			"title_2",
 			"title_3",
 			"title_4",
@@ -33,7 +33,7 @@
 			"general_14"
 		],
 		"unit": [
-			"unit_1",
+			"unit_1	",
 			"unit_2",
 			"unit_3",
 			"unit_4",
